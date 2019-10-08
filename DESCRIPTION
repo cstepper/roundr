@@ -1,12 +1,13 @@
 Package: roundr
-Title: Collection of different Rounding (Apportionment) Methods.
+Title: Collection of different Rounding (Apportionment) Methods
 Version: 0.0.0.9000
 Authors@R: 
     person(given = "Christoph",
            family = "Stepper",
            role = c("aut", "cre"),
            email = "christoph.stepper@gfk.com")
-Description: What the package does (one paragraph).
+Description: A set of rounding options to apportion shares or quotas to 
+    integers (seats, headcounts, etc.)
 License: GPL-3 + file LICENSE
 Suggests: 
     testthat
@@ -14,3 +15,7 @@ Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.99.9001
+URL: https://github.com/cstepper/roundr
+BugReports: https://github.com/cstepper/roundr/issues
+Imports: 
+    magrittr
