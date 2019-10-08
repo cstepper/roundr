@@ -8,7 +8,7 @@ Authors@R:
            email = "christoph.stepper@gfk.com")
 Description: A set of rounding options to apportion shares or quotas to 
     integers (seats, headcounts, etc.)
-License: GPL-3 + file LICENSE
+License: MIT + file LICENSE
 Suggests: 
     testthat
 Encoding: UTF-8
