@@ -6,16 +6,16 @@ Authors@R:
            family = "Stepper",
            role = c("aut", "cre"),
            email = "christoph.stepper@gfk.com")
-Description: A set of rounding options to apportion shares or quotas to 
-    integers (seats, headcounts, etc.)
+Description: A set of rounding options to apportion shares or
+    quotas to integers (seats, headcounts, etc.)
 License: MIT + file LICENSE
+URL: https://github.com/cstepper/roundr
+BugReports: https://github.com/cstepper/roundr/issues
+Imports: 
+    magrittr
 Suggests: 
     testthat
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 6.1.99.9001
-URL: https://github.com/cstepper/roundr
-BugReports: https://github.com/cstepper/roundr/issues
-Imports: 
-    magrittr
